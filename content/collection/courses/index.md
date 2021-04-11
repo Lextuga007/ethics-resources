@@ -21,3 +21,4 @@ Kings College London appears to be the only University in the UK that offers a p
 
 Pre-requisites for many of the courses are in relevant disciplines (e.g. law, medicine, philosophy, psychology, theology, social science, one of the life sciences, or nursing studies) or a  qualification appropriate to the programme in medicine; or a professional mental health qualification. It is always best to check these or contact the course leader if you have any questions.
 
+[^1]: Massive Open Online Course

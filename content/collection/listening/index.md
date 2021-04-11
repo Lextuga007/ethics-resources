@@ -19,4 +19,4 @@ A [BBC Sounds podcast](https://www.bbc.co.uk/programmes/p08lj2sz) that explores 
 
 Psychology and ethics often overlap and a particular podcast to consider listening to is [No Angel: When is spreading infectious diseases a crime?](https://www.bbc.co.uk/sounds/play/p09ccfct) which not only reflects upon the case where HIV was spread but also the discussions that have come from the Covid-19 pandemic.
 
-[^1]: Massive Open Online Course
+Dr Julia Shaw has also written an [article](https://www.bbc.co.uk/programmes/articles/14Y4jd5dBjxYYrzdyj6lxX7/when-is-spreading-infectious-diseases-a-crime) to complement this episode that discusses the issues of consent and risk further in terms of the law and psychology.
