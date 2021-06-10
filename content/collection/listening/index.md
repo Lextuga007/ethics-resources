@@ -7,7 +7,7 @@ date: 2021-04-09
 draft: false
 ---
 
-Podcasts can be an interesting source of ethics information and a couple of BBC podcasts may be of interest:
+Podcasts can be an interesting source of ethics information and a couple of [BBC podcasts](https://www.bbc.co.uk/programmes/topics/Medical_ethics) may be of interest:
 
 ### Inside the Ethics Committee
 
